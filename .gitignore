@@ -1,0 +1,6 @@
+config.py
+dockerfile
+.idea
+data_massive.json
+mongo_url
+__pycache__/*
